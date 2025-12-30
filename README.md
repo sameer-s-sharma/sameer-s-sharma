@@ -11,7 +11,7 @@ Enterprise Platform Architect with a focus on designing, securing, and automatin
 My work is centered around **real-world enterprise constraints**: global scale, regulatory boundaries, operational simplicity, and predictable user experience.
 
 ## Current focus areas
-- Automating identity- and policy-driven platform behavior
+- Automating identity - and policy-driven platform behavior
 - Integrating Citrix and Microsoft cloud services in hybrid and multi-region designs
 - Reducing operational risk through standardization and automation
 - Exploring policy-driven placement and resiliency patterns for cloud workloads
